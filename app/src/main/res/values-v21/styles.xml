@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--这里我们定义了一个FruitActivityTheme主题 它是专门给FruitActivity使用的-->
+    <style name="FruitActivityTheme"  parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>
