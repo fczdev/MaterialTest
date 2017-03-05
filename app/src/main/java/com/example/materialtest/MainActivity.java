@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
     private List<Fruit> fruitList = new ArrayList<>();
 
     private FruitAdapter adapter;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
